@@ -14,6 +14,14 @@ Included covers so far for:
 
  Will update with more consoles eventually including PSVita of coure
 
+### Some Examples:
+
+<img width="237" height="408" alt="Dragon Ball Z -Tenkaichi Tag Team" src="https://github.com/user-attachments/assets/d3b8152f-672d-4fbd-af99-022db2c59897" />
+<img width="237" height="408" alt="Valkyria Chronicles III" src="https://github.com/user-attachments/assets/2d4e9b30-d56a-4178-9c5b-f83403dbacae" />
+<img width="250" height="250" alt="SCUS94467" src="https://github.com/user-attachments/assets/2d95c4ce-f445-4d49-a78b-88dbd659c077" />
+<img width="250" height="250" alt="SLES02080" src="https://github.com/user-attachments/assets/f4ee30ed-cbf2-488e-8f52-53f8a2519706" />
+
+
  &nbsp;
 
 Enjoy!
