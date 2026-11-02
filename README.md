@@ -6,13 +6,14 @@ Included covers so far for:
 
 ### RetroFlow:
 * PSP - 180 × 320px
-* PSX - 250 × 250px 
+* PSX - 250 × 250px
+* PSV - 250 × 320px- 
 
 ### ABM:
 * PSP - 237 × 408px
 * PSX - 336 × 336px
 
- Will update with more consoles eventually including PSVita of course
+ Will update with more consoles.
 
 ### Some Examples:
 
