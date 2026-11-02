@@ -9,8 +9,8 @@ Included covers so far for:
 * PSX - 250 × 250px 
 
 ### ABM:
-* PSP - 237 × 408
-* PSX - 336 × 336
+* PSP - 237 × 408px
+* PSX - 336 × 336px
 
  Will update with more consoles eventually including PSVita of course
 
