@@ -12,7 +12,7 @@ Included covers so far for:
 * PSP - 237 × 408
 * PSX - 336 × 336
 
- Will update with more consoles eventually including PSVita of coure
+ Will update with more consoles eventually including PSVita of course
 
 ### Some Examples:
 
