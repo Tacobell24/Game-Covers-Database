@@ -21,7 +21,8 @@ Included covers so far for:
 <img width="237" height="408" alt="Valkyria Chronicles III" src="https://github.com/user-attachments/assets/2d4e9b30-d56a-4178-9c5b-f83403dbacae" />
 <img width="250" height="250" alt="SCUS94467" src="https://github.com/user-attachments/assets/2d95c4ce-f445-4d49-a78b-88dbd659c077" />
 <img width="250" height="250" alt="SLES02080" src="https://github.com/user-attachments/assets/f4ee30ed-cbf2-488e-8f52-53f8a2519706" />
-
+<img width="250" height="320" alt="PCSG01179" src="https://github.com/user-attachments/assets/a643fb38-5821-42df-8988-aa8851a1456c" />
+<img width="250" height="320" alt="PCSA00152" src="https://github.com/user-attachments/assets/1984ce74-8165-4f8a-907f-c554efb382d7" />
 
  &nbsp;
 
